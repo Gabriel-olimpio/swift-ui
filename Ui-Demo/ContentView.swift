@@ -61,7 +61,7 @@ struct ContentView: View {
                 .foregroundColor(.white)
                 .cornerRadius(15)
                 .shadow(radius: 15))
-            .padding() // Padding fora do background
+            .padding()// Padding fora do background
         }
         
         
